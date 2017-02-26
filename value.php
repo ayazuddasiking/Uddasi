@@ -160,7 +160,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='  Singal Comment :P ayazuddasi.mybluemix.net
+$site='  Singal Comment :P uddasi.mybluemix.net
  ';
 $true=$ops.'
  '.$ips.'
